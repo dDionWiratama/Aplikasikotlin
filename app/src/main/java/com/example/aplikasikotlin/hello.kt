@@ -10,4 +10,4 @@ fun main() {
     val john = Manusia("Dion Wiratama", hobiBacaBuku)
 
     println("Nama: ${john.nama}, Hobi: ${john.hobi.nama} (${john.hobi.deskripsi})")
-}
+} 
